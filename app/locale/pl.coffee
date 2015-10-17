@@ -530,8 +530,8 @@ module.exports = nativeDescription: "polski", englishDescription: "Polish", tran
   skill_docs:
     writable: "zapisywalny" # Hover over "attack" in Your Skills while playing a level to see most of this
     read_only: "tylko do odczytu"
-#    action: "Action"
-#    spell: "Spell"
+    action: "Akcja"
+    spell: "Zaklęcie"
     action_name: "nazwa"
     action_cooldown: "Zajmuje"
     action_specific_cooldown: "Odpoczynek"
@@ -767,7 +767,7 @@ module.exports = nativeDescription: "polski", englishDescription: "Polish", tran
     continue_script: "Kontynuuj ostatni skrypt."
     skip_scripts: "Pomiń wszystkie pomijalne skrypty."
     toggle_playback: "Graj/pauzuj."
-#    scrub_playback: "Scrub back and forward through time."
+    scrub_playback: "Scrub back and forward through time."
 #    single_scrub_playback: "Scrub back and forward through time by a single frame."
 #    scrub_execution: "Scrub through current spell execution."
 #    toggle_debug: "Toggle debug display."
@@ -1045,7 +1045,7 @@ module.exports = nativeDescription: "polski", englishDescription: "Polish", tran
 
   contribute:
     page_title: "Współpraca"
-#    intro_blurb: "CodeCombat is 100% open source! Hundreds of dedicated players have helped us build the game into what it is today. Join us and write the next chapter in CodeCombat's quest to teach the world to code!"
+    intro_blurb: "CodeCombat jest w 100% wolnym oprogramowaniem! Setki graczy pomogy nam by gra stała się tym czym jest dzisiaj. Dołącz do nas i daj się ponieść przygodzie: z CodeCombat nauczmy świat kodować!"
     alert_account_message_intro: "Hej tam!"
     alert_account_message: "Musisz się najpierw zalogować, jeśli chcesz zapisać się na klasowe e-maile."
     archmage_introduction: "Jedną z najlepszych rzeczy w tworzeniu gier jest to, że syntetyzują one tak wiele różnych spraw. Grafika, dźwięk, łączność w czasie rzeczywistym, social networking i oczywiście wiele innych, bardziej popularnych, aspektów programowania, od niskopoziomowego zarządzania bazami danych i administracji serwerem do interfejsu użytkownika i jego tworzenia. Jest wiele do zrobienia i jeśli jesteś doświadczonym programistą z zacięciem, by zajrzeć do sedna CodeCombat, ta klasa może być dla ciebie. Bylibyśmy niezmiernie szczęśliwi mając twoją pomoc przy budowaniu najlepszej programistycznej gry wszech czasów."
