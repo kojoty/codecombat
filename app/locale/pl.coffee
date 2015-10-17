@@ -31,7 +31,7 @@ module.exports = nativeDescription: "polski", englishDescription: "Polish", tran
     contact: "Kontakt"
     twitter_follow: "Subskrybuj"
     teachers: "Nauczyciele"
-#    careers: "Careers"
+    careers: "Kariera"
 
   modal:
     close: "Zamknij"
@@ -159,9 +159,9 @@ module.exports = nativeDescription: "polski", englishDescription: "Polish", tran
     accepted: "Przyjęto"
     rejected: "Odrzucono"
     withdrawn: "Wycofano"
-#    accept: "Accept"
-#    reject: "Reject"
-#    withdraw: "Withdraw"
+    accept: "Zaakceptuj"
+    reject: "Odrzuć"
+    withdraw: "Wycofaj"
     submitter: "Przesyłający"
     submitted: "Przesłano"
     commit_msg: "Wiadomość do commitu"
@@ -217,8 +217,8 @@ module.exports = nativeDescription: "polski", englishDescription: "Polish", tran
 
   play_level:
     done: "Zrobione"
-#    next_game: "Next game"
-#    show_menu: "Show game menu"
+    next_game: "Następna gra"
+    show_menu: "Pokaż menu gry"
     home: "Strona główna" # Not used any more, will be removed soon.
     level: "Poziom" # Like "Level: Dungeons of Kithgard"
     skip: "Pomiń"
